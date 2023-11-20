@@ -1,9 +1,8 @@
 <h3 align="center">Log Ingestor and Query Interface using AG Grid React</h3>
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mugdhaarekar/november-2023-hiring-mugdhaarekar">
+  <a href="https://github.com/mugdhaarekar/aggridqueryinterface">
   </a>
 </div>
 
@@ -64,9 +63,9 @@ AG-Grid in a React JS application is used as a Log Ingestor and Query Interface.
 
 ### 1. Clone the repository:
 
-    bash git clone https://github.com/your-username/your-repo.git
+    bash git clone https://github.com/mugdhaarekar/aggridqueryinterface.git
 
-### 2. Navigate to Project Directory: `cd /november-2023-hiring-mugdhaarekar/aggrid/`
+### 2. Navigate to Project Directory: `cd aggrid`
 
 ### 3. Install Dependencies: `npm install` > (Installs the necessary dependencies listed in the package.json file.)
 
