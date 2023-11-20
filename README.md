@@ -64,11 +64,7 @@ AG-Grid in a React JS application is used as a Log Ingestor and Query Interface.
 
 ### 1. Clone the repository:
 
-    ```
-    bash
-    git clone https://github.com/your-username/your-repo.git
-
-    ```
+    bash git clone https://github.com/your-username/your-repo.git
 
 ### 2. Navigate to Project Directory: `cd /november-2023-hiring-mugdhaarekar/aggrid/`
 
